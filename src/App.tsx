@@ -30,7 +30,7 @@ const App = () => {
             <h2>$478.33</h2>
           </div>
           <div className="section__profit">
-            <h4>+2.4%</h4>
+            <h3>+2.4%</h3>
             <p className="paragraph">from last month </p>
           </div>
         </div>

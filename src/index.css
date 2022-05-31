@@ -116,3 +116,7 @@ body {
   flex-direction: column;
   align-items: flex-end;
 }
+
+.section__profit > h3 {
+  font-size: 16px;
+}
